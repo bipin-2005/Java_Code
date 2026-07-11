@@ -1,4 +1,4 @@
-package Numbers_Question;
+package numbers_Question;
 import java.util.Scanner;
 public class ReverseNumber{
 

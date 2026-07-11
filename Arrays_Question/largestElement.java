@@ -14,7 +14,7 @@ Constraints
 nums may contain duplicate elements.
 ------------------------------------
 */
-package Arrays_Question;
+package arrays_Question;
 public class largestElement {
     public static void main(String args[]){
         int[] array = {3,3,0,99,-48};

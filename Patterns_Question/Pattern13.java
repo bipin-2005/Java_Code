@@ -7,7 +7,7 @@
 11 12 13 14 15
 
 Print the pattern in the function given to you.*/
-package Patterns_Question;
+package patterns_Question;
 
 import java.util.Scanner;
 

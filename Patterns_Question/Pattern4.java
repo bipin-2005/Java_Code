@@ -1,4 +1,4 @@
-package Patterns_Question;
+package patterns_Question;
 import java.util.Scanner;
 public class Pattern4 {
     public static void main(String args[]){

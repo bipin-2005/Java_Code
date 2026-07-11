@@ -9,7 +9,7 @@
 **
 *
 Print the pattern in the function given to you.*/
-package Patterns_Question;
+package patterns_Question;
 
 import java.util.Scanner;
 

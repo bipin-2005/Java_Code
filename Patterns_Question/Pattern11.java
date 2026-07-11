@@ -6,7 +6,7 @@
 0 1 0 1 
 1 0 1 0 1
 Print the pattern in the function given to you.*/
-package Patterns_Question;
+package patterns_Question;
 
 import java.util.Scanner;
 
