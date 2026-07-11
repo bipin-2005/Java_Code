@@ -21,13 +21,15 @@ public class secondlargestElement {
         System.out.println(solution(array));
     } 
     public static int solution(int[] nums) {
-        int max=nums[0],secondlargest=0;
+        int max=nums[0],secondlargest=-1;
         for(int i=1;i<nums.length;i++){
-            for(int j=2;j<nums.length;j++)
             {
-            if(nums[i]<nums[j]){
+            if(nums[i]>max){
                 secondlargest=max;
                 max=nums[i];
+            }
+            else if(nums[i]>secondlargest && nums[i]!=max){
+                secondlargest=nums[i];
             }
         }
         }
