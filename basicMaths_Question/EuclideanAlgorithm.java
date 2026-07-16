@@ -12,14 +12,12 @@ public class EuclideanAlgorithm {
         if(num2==0){
             System.out.println("GCD : "+num1);
         }
-        else{
             while(num2!=0){
                 int temp=num2;
                 num2=num1%num2;
                 num1=temp;
             }
             System.out.println("GCD : "+num1);
-        }
         input.close();
     }
 }
