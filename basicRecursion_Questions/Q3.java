@@ -17,8 +17,8 @@ public class Q3 {
         Scanner input= new Scanner(System.in);
         System.out.print("Enter a number : ");
         int n1=input.nextInt();
-        int r=sum(n1);
-        System.out.println("sum is : "+r);
+        int result = sum(n1);
+        System.out.println("Sum of first "+n1+" natural number is : "+result);
         input.close();
     }
     static int sum(int num){
