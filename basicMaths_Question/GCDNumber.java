@@ -14,6 +14,7 @@ public class GCDNumber {
                 System.out.println("GCD : "+i);
                 return;
             }
+            input.close();
         }
         input.close();
     }   
