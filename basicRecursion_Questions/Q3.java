@@ -9,7 +9,7 @@ Explanation : first four natural numbers are 1, 2, 3, 4.
 Sum is 1 + 2 + 3 + 4 => 10.
 */
 
-package basicRecursion_Questions;
+
 
 import java.util.Scanner;
 public class Q3 {

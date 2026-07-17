@@ -10,7 +10,7 @@ Output:
 4  
 5*/
 
-package basicRecursion_Questions;
+
 
 import java.util.Scanner;
 public class Q1 {

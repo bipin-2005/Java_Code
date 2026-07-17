@@ -11,7 +11,7 @@ Output:
 1
 */
 
-package basicRecursion_Questions;
+
 
 import java.util.Scanner;
 public class Q2 {
